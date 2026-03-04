@@ -1,0 +1,19 @@
+[
+  {
+    "file": "src/buffer.c",
+    "arguments": [
+      "gcc",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "src/buffer.c",
+      "-o",
+      "src/buffer.o"
+    ],
+    "directory": "/home/jless/Code/c-cpp/c/jless-lib",
+    "output": "src/buffer.o"
+  }
+]
